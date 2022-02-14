@@ -61,6 +61,8 @@ namespace TrianguloApp
                 {
                     Console.Clear();
                     continue;
+                }else{
+                  break;
                 }
             }
 
